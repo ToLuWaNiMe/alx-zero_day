@@ -1,1 +1,1 @@
-My first readme
+a readme for git3
